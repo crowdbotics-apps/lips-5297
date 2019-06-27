@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT lips_5297.wsgi:application

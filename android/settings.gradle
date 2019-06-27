@@ -1,0 +1,3 @@
+rootProject.name = 'lips_5297'
+
+include ':app'
